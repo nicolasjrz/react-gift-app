@@ -12,7 +12,7 @@ export const GitExpertApp = () => {
   };
   return (
     <>
-      <h1 className="title-app">Git Expert App</h1>
+      <h1 className="title-app">Gif Expert App</h1>
       <AddCategory
         //setCategories={setCategories}
         onNewCategory={(value) => onAdddCategory(value)}
